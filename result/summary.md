@@ -68,6 +68,12 @@ With this improved structure, we can now modify the function to apply more advan
 
 ## Results and Conclusion
 
+The project has successfully demonstrates the process of preprocessing skin lesion images by removing hair in order to enhance further the classifier of melanoma. By detecting and removing hair using a morphological blackhat filter and inpainting, the preprocessing pipeline ensures cleaner images, making it easier to detect and analyze the skin lesions.
+
+Our key steps, image enhancement use Histogram Equalization and Bilateral Filtering, further improve the visibility of lesion features. The final results include the original, enhanced, and hair-free images, which are stored for further analysis.
+
+Ultimately, the preprocessing improves the accuracy of feature extraction, ensuring that subsequent stages of melanoma classification are more reliable and effective. This approach lays a strong foundation for more accurate skin cancer detection systems in the future.
+
 
 
 
