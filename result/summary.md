@@ -73,6 +73,11 @@ The project has successfully demonstrates the process of preprocessing skin lesi
 Our key steps, image enhancement use Histogram Equalization and Bilateral Filtering, further improve the visibility of lesion features. The final results include the original, enhanced, and hair-free images, which are stored for further analysis.
 
 Ultimately, the preprocessing improves the accuracy of feature extraction, ensuring that subsequent stages of melanoma classification are more reliable and effective. This approach lays a strong foundation for more accurate skin cancer detection systems in the future.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 6026249f7a842629dc800c4c744ed0e28a67988d
 
 
 
